@@ -1,0 +1,91 @@
+
+
+div {
+	display: inline-block;
+	background-color: #ffffff;
+	margin: 20px;	
+}
+
+.fl-l {
+  float:left;
+  word-break: break-all;
+   width: 42%;
+}
+#wrap{
+    width:auto;
+ margin:0 auto;
+  border:0px solid;
+ height:200px;
+  display:block;
+  
+}
+
+#pic {
+  background: url("images/Talia_BOS_1_new.jpg");
+  background-size: cover;
+  color: #fff;
+  width: 640px;
+  height: 600px;
+ 
+}
+
+ #enter {
+ 	background-color: #ffffff;
+ 	width: 540px;
+ 	height: 600px;
+}
+
+h1 {
+	color:#222222;
+	text-align: center;
+	font-family: Georgia, sans-serif;
+	font-size: 32px; 
+	font-weight: 500px;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+	font-style: normal;
+	text-align: bottom;
+}
+
+h2 {
+	color:#222222;
+	text-align: center;
+	font-family: Georgia, sans-serif;
+	font-size: 18px; 
+	font-weight: 500px;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	font-style: normal;
+	text-align: bottom;
+}
+
+hr {
+  width: 200px;
+  color: #222222;
+}
+
+p {
+	color:#222222;
+	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 16px; 
+	font-weight: 500px;
+	letter-spacing: -1px;
+	font-style: normal;
+	text-transform: uppercase;
+	text-align: bottom;
+
+}
+
+.p1 {
+	color:#222222;
+	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 15px; 
+	font-weight: 500px;
+	letter-spacing: -1px;
+	font-style: normal;
+	text-transform: uppercase;
+	text-align: bottom;
+
+}
