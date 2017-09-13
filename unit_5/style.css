@@ -1,0 +1,122 @@
+body {
+	color:#222222;
+	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 16px; 
+	font-weight: 500px;
+	letter-spacing: -1px;
+	font-style: normal;
+	text-transform: uppercase;
+	text-align: bottom;
+}
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.navtext {
+	font-color:#222222;
+	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 16px; 
+	font-weight: 500px;
+	letter-spacing: -1px;
+	font-style: normal;
+	text-transform: uppercase;
+	background-color: #ffffff;
+}
+
+
+#pic {
+  background: url("images/Talia_BOS_1_new.jpg");
+  background-size: cover;
+}
+
+h1 {
+	color:#222222;
+	text-align: center;
+	font-family: Georgia, sans-serif;
+	font-size: 32px; 
+	font-weight: 500px;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+	font-style: normal;
+	text-align: bottom;
+}
+
+hr {
+  width: 200px;
+  color: #222222;
+
+}
+
+h2 {
+	color:#222222;
+	text-align: center;
+	font-family: Georgia, sans-serif;
+	font-size: 18px; 
+	font-weight: 500px;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	font-style: normal;
+	text-align: bottom;
+}
+
+a {
+	color:#222222;
+	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 16px; 
+	font-weight: 500px;
+	letter-spacing: -1px;
+	font-style: normal;
+	text-transform: uppercase;
+	text-align: bottom;
+	text-decoration: underline;
+}
+
+img {
+	background-size: cover;
+	color: #fff;
+  	width: 640px;
+  	height: 600px;
+
+}
